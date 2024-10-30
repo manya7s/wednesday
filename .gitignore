@@ -1,0 +1,64 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+dist/
+build/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE or editor specific files
+.idea/
+.vscode/
+*.swp
+
+# Log files
+*.log
+
+# Test coverage
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
+
+# Python language server
+Pylance/
+
+# Pyre type checker
+.pyre/
+
+# Pyenv
+.python-version
+
+# C extensions
+*.so
+
+# Translations
+*.mo
+*.pot
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
